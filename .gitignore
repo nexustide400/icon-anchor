@@ -1,0 +1,22 @@
+# !!! 記憶データ !!!
+# デスクトップにあるファイル名がそのまま入っているので、絶対に公開しないこと
+layout_*.txt
+
+# ビルド生成物（配布は GitHub の Releases から行う）
+*.exe
+*.pdb
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
